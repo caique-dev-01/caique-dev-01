@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Caique!
+# 👋 Olá, eu sou o José Caique!
 
 <img src="https://github.com/caique-dev-01/caique-dev-01/blob/main/octocat-1746813890362.png" alt="Minha imagem" width="250" align="right">
 
