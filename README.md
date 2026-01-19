@@ -8,7 +8,7 @@ Estudando **HTML**, **CSS** e **JavaScript** para criar interfaces modernas e di
 ---
 
 ### 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-caique-1ab79b232) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-caique-alves-da-silva-1ab79b232) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcaique825@gmail.com)
 
 ---
